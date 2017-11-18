@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_yskt" >
+
+    <ImageButton
+        android:id="@+id/btn2"
+        android:layout_width="387dp"
+        android:layout_height="273dp"
+        android:layout_x="200dp"
+        android:layout_y="60dp"
+        android:onClick="btn2_Click"
+        android:src="@drawable/dglx" />
+
+    <ImageButton
+        android:id="@+id/btn3"
+        android:layout_width="387dp"
+        android:layout_height="273dp"
+        android:layout_x="650dp"
+        android:layout_y="60dp"
+        android:onClick="btn3_Click"
+        android:src="@drawable/hxxz" />
+
+    <ImageButton
+        android:id="@+id/btn5"
+        android:layout_width="387dp"
+        android:layout_height="273dp"
+        android:layout_x="200dp"
+        android:layout_y="340dp"
+        android:onClick="btn5_Click"
+        android:src="@drawable/ccqm" />
+
+    <ImageButton
+        android:id="@+id/btn4"
+        android:layout_width="387dp"
+        android:layout_height="273dp"
+        android:layout_x="650dp"
+        android:layout_y="340dp"
+        android:onClick="btn4_Click"
+        android:src="@drawable/bkbx" />
+
+</AbsoluteLayout>

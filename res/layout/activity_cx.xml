@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/AbsoluteLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_caixi" >
+
+    <ImageButton
+        android:id="@+id/btnLu"
+        android:layout_width="199dp"
+        android:layout_height="534dp"
+        android:layout_x="50dp"
+        android:layout_y="65dp"
+        android:onClick="btnLu_Click"
+        android:src="@drawable/lu" />
+
+    <ImageButton
+        android:id="@+id/btnChuan"
+        android:layout_width="199dp"
+        android:layout_height="534dp"
+        android:layout_x="285dp"
+        android:layout_y="65dp"
+        android:onClick="btnChuan_Click"
+        android:src="@drawable/chuan" />
+
+    <ImageButton
+        android:id="@+id/btnOther"
+        android:layout_width="199dp"
+        android:layout_height="534dp"
+        android:layout_x="535dp"
+        android:layout_y="65dp"
+        android:onClick="btnOther_Click"
+        android:src="@drawable/xiandai" />
+
+    <ImageButton
+        android:id="@+id/btnHu"
+         android:layout_width="199dp"
+        android:layout_height="534dp"
+        android:layout_x="765dp"
+        android:layout_y="65dp"
+        android:onClick="btnHu_Click"
+        android:src="@drawable/hu" />
+
+    <ImageButton
+        android:id="@+id/btnYue"
+        android:layout_width="199dp"
+        android:layout_height="534dp"
+        android:layout_x="995dp"
+        android:layout_y="65dp"
+        android:onClick="btnYue_Click"
+        android:src="@drawable/yue" />
+
+</AbsoluteLayout>

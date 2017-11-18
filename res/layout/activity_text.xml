@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/picture">>
+
+    <ListView
+        android:id="@+id/lstItemsTxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="998dp"
+        android:background="#55ffffff" >
+
+    </ListView>
+
+    <ImageView
+        android:id="@+id/imgPic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/txtContext"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="234dp"
+        android:layout_marginLeft="444dp"
+        android:layout_marginRight="420dp"
+        android:layout_marginTop="135dp"
+        android:src="@drawable/ic_launcher" />
+
+    <EditText
+        android:id="@+id/txtContext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imgPic"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="49dp"
+        android:layout_marginLeft="461dp"
+        android:layout_marginRight="22dp"
+        android:layout_marginTop="60dp"
+        android:background="#55ffffff"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:textSize="45sp" >
+
+        <requestFocus />
+    </EditText>
+
+</RelativeLayout>

@@ -1,0 +1,49 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/AbsoluteLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_main"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <ImageButton
+        android:id="@+id/btnLearning"
+        android:layout_width="437dp"
+        android:layout_height="273dp"
+        android:layout_x="438dp"
+        android:layout_y="15dp"
+        android:onClick="btnLearning_Click"
+        android:src="@drawable/yskt" />
+
+    <ImageButton
+        android:id="@+id/btnConcept"
+        android:layout_width="437dp"
+        android:layout_height="273dp"
+        android:layout_x="0dp"
+        android:layout_y="15dp"
+        android:onClick="btnConcept_Click"
+        android:src="@drawable/ysgn" />
+
+    <ImageButton
+        android:id="@+id/btnFood"
+        android:layout_width="437dp"
+        android:layout_height="273dp"
+        android:layout_x="0dp"
+        android:layout_y="291dp"
+        android:onClick="btnFood_Click"
+        android:src="@drawable/bfms" />
+
+    <ImageButton
+        android:id="@+id/btnCulture"
+        android:layout_width="437dp"
+        android:layout_height="273dp"
+        android:layout_x="438dp"
+        android:layout_y="291dp"
+        android:onClick="btnCulture_Click"
+        android:src="@drawable/yswh" />
+
+</AbsoluteLayout>

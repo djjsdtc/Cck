@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_yswh" >
+
+
+    <ImageButton
+        android:id="@+id/btnTradition"
+        android:layout_width="426dp"
+        android:layout_height="288dp"
+        android:layout_x="100dp"
+        android:layout_y="57dp"
+        android:onClick="btnTradition_Click"
+        android:src="@drawable/ysfs" />
+
+    <ImageButton
+        android:id="@+id/btnStory"
+        android:layout_width="426dp"
+        android:layout_height="288dp"
+        android:layout_x="100dp"
+        android:layout_y="350dp"
+        android:onClick="btnStory_Click"
+        android:src="@drawable/ysgs" />
+
+    <ImageButton
+        android:id="@+id/btnTaboo"
+        android:layout_width="426dp"
+        android:layout_height="288dp"
+        android:layout_x="555dp"
+        android:layout_y="350dp"
+        android:onClick="btnTaboo_Click"
+        android:src="@drawable/ysjj" />
+
+    <ImageButton
+        android:id="@+id/btnShopinrto"
+        android:layout_width="426dp"
+        android:layout_height="288dp"
+        android:layout_x="555dp"
+        android:layout_y="57dp"
+        android:onClick="btnShopinrto_Click"
+        android:src="@drawable/laozihao" />
+
+</AbsoluteLayout>

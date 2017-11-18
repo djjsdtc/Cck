@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Items>
+	<Category Name="川菜">
+		<Item Name="酸菜粉丝汤" Text="cc0100.txt" Pic="酸菜粉丝汤.jpg"></Item>
+        <Item Name="白油烘蛋" Text="cc0200.txt" Pic="白油烘蛋.jpg"></Item>
+		<Item Name="金钩瓜方" Text="cc0300.txt" Pic="金钩瓜方.jpg"></Item>
+		<Item Name="炝炒黄瓜" Text="cc0400.txt" Pic="炝炒黄瓜.jpg"></Item>
+		<Item Name="干煸苦瓜" Text="cc0500.txt" Pic="干煸苦瓜.jpg"></Item>
+		<Item Name="绍子豆腐" Text="cc0600.txt" Pic="绍子豆腐.jpg"></Item>
+		<Item Name="麻婆豆腐" Text="cc0700.txt" Pic="麻婆豆腐.jpg"></Item>
+		<Item Name="金钩蒸饺" Text="dx0600.txt" Pic="金钩蒸饺.jpg"></Item>
+		<Item Name="红烧牛腩" Text="dw0400.txt" Pic="红烧牛腩.jpg"></Item>
+		<Item Name="鱼香肉丝" Text="dw0300.txt" Pic="鱼香肉丝.jpg"></Item>
+		<Item Name="韭菜鱼蓉饺" Text="kk0800.txt" Pic="韭菜鱼蓉饺.jpg"></Item>
+		<Item Name="莲锅汤" Text="yx0200.txt" Pic="莲锅汤.jpg"></Item>
+		<Item Name="干烧鱼" Text="yx0100.txt" Pic="干烧鱼.jpg"></Item>
+		<Item Name="豆瓣鱼条" Text="yx0400.txt" Pic="豆瓣鱼条.jpg"></Item>
+		<Item Name="红油水饺" Text="qm0200.txt" Pic="红油水饺.jpg"></Item>
+		<Item Name="八珍咸粥" Text="kk0500.txt" Pic="八珍咸粥.jpg"></Item>
+		<Item Name="叶儿粑" Text="dx0100.txt" Pic="叶儿粑.jpg"></Item>
+		<Item Name="鸡片汤" Text="cc0900.txt" Pic="鸡片汤.jpg"></Item>
+		<Item Name="莲锅汤" Text="cc0800.txt" Pic="莲锅汤.jpg"></Item>
+		<Item Name="鸡豆花" Text="cc1000.txt" Pic="鸡豆花.jpg"></Item>
+		<Item Name="凉拌三丝" Text="jc0500.txt" Pic="凉拌三丝.jpg"></Item>
+	</Category>
+	<Category Name="粤菜">
+		<Item Name="生炒鹌鹑松" Text="yc1000.txt" Pic="生炒鹌鹑松.jpg"></Item>
+		<Item Name="碧绿炒虾球" Text="yc0700.txt" Pic="碧绿炒虾球.jpg"></Item>
+		<Item Name="三鲜响螺片" Text="yc0600.txt" Pic="三鲜响螺片.jpg"></Item>
+		<Item Name="香菇鸡羹" Text="yc0100.txt" Pic="香菇鸡羹.jpg"></Item>
+		<Item Name="三色龙虾" Text="yc0200.txt" Pic="三色龙虾.jpg"></Item>
+		<Item Name="喜鹊向南翔" Text="hy0300.txt" Pic="喜鹊向南翔.jpg"></Item>
+		<Item Name="富贵花鱼丸" Text="hy0400.txt" Pic="富贵花鱼丸.jpg"></Item>
+		<Item Name="花雕肥鸡" Text="hy0200.txt" Pic="花雕肥鸡.jpg"></Item>
+		<Item Name="鲜荷玉鸳鸯" Text="hy0500.txt" Pic="鲜荷玉鸳鸯.jpg"></Item>
+		<Item Name="海鲜卷" Text="kz0400.txt" Pic="海鲜卷.jpg"></Item>
+		<Item Name="腌梅蒸鱼" Text="jf0400.txt" Pic="腌梅蒸鱼.jpg"></Item>
+		<Item Name="广式炒面" Text="kk0400.txt" Pic="广式炒面.jpg"></Item>
+		<Item Name="蜜汁排骨" Text="zq0300.txt" Pic="蜜汁排骨.jpg"></Item>
+		<Item Name="白斩鸡" Text="zq0200.txt" Pic="白斩鸡.jpg"></Item>
+		<Item Name="拨鱼" Text="kk0100.txt" Pic="拨鱼.jpg"></Item>
+		<Item Name="瑶柱冬瓜汤" Text="ks0100.txt" Pic="瑶柱冬瓜汤.jpg"></Item>
+		<Item Name="蜜汁叉烧" Text="hy0100.txt" Pic="蜜汁叉烧.jpg"></Item>
+		<Item Name="花胶炖凤爪" Text="yc0500.txt" Pic="花胶炖凤爪.jpg"></Item>
+		<Item Name="菊花烩三蛇" Text="yc0400.txt" Pic="菊花烩三蛇.jpg"></Item>
+	</Category>
+	<Category Name="鲁菜">
+		<Item Name="酱鸭" Text="jc0100.txt" Pic="酱鸭.jpg"></Item>
+		<Item Name="木须肉" Text="jc0200.txt" Pic="木须肉.jpg"></Item>
+		<Item Name="滑溜里脊" Text="jc0400.txt" Pic="滑溜里脊.jpg"></Item>
+		<Item Name="素三鲜" Text="jc0300.txt" Pic="素三鲜.jpg"></Item>
+		<Item Name="拔丝莲子" Text="cx0400.txt" Pic="拔丝莲子.jpg"></Item>
+  		<Item Name="锅烧鸡" Text="cx0300.txt" Pic="锅烧鸡.jpg"></Item>
+		<Item Name="北平肴肉" Text="jc0600.txt" Pic="北平肴肉.jpg"></Item>
+		<Item Name="四喜丸子" Text="jc0700.txt" Pic="四喜丸子.jpg"></Item>
+		<Item Name="皮蛋豆腐" Text="jc0900.txt" Pic="皮蛋豆腐.jpg"></Item>
+		<Item Name="坛子肉" Text="cj0200.txt" Pic="坛子肉.jpg"></Item>
+		<Item Name="合菜盖被" Text="cj0400.txt" Pic="合菜盖被.jpg"></Item>
+		<Item Name="水饺" Text="cj0100.txt" Pic="水饺.jpg"></Item>
+		<Item Name="油爆鲜贝" Text="ci0700.txt" Pic="油爆鲜贝.jpg"></Item>
+		<Item Name="炸烹虾仁" Text="cj0500.txt" Pic="炸烹虾仁.jpg"></Item>
+		<Item Name="排骨卤饭" Text="jc0800.txt" Pic="排骨卤饭.jpg"></Item>
+		<Item Name="凉拌藕片" Text="jc1000.txt" Pic="凉拌藕片.jpg"></Item>
+		<Item Name="油焖大虾" Text="sr0300.txt" Pic="油焖大虾.jpg"></Item>
+		<Item Name="福寿肘子" Text="sr0200.txt" Pic="福寿肘子.jpg"></Item>
+		<Item Name="百香溜鱼片" Text="jf1000.txt" Pic="百香溜鱼片.jpg"></Item>
+	</Category>
+	<Category Name="沪菜">
+		<Item Name="油爆河虾仁" Text="hc0100.txt" Pic="油爆河虾仁.jpg"></Item>
+		<Item Name="糟鸡" Text="hc0200.txt" Pic="糟鸡.jpg"></Item>
+		<Item Name="扁婆塞肉" Text="hc0400.txt" Pic="扁婆塞肉.jpg"></Item>
+		<Item Name="雪菜麻菇" Text="hc0600.txt" Pic="雪菜麻菇.jpg"></Item>
+		<Item Name="鲫鱼塞肉" Text="hc0800.txt" Pic="鲫鱼塞肉.jpg"></Item>
+		<Item Name="美味汁骨" Text="hc0700.txt" Pic="美味汁骨.jpg"></Item>
+		<Item Name="红烧甩水" Text="hc0900.txt" Pic="红烧甩水.jpg"></Item>
+		<Item Name="阳春面" Text="kz0200.txt" Pic="阳春面.jpg"></Item>
+		<Item Name="烧鸡" Text="sr0100.txt" Pic="烧鸡.jpg"></Item>
+		<Item Name="发菜豆腐汤" Text="mw0700.txt" Pic="发菜豆腐汤.jpg"></Item>
+		<Item Name="藕粉元宵" Text="yx0300.txt" Pic="藕粉元宵.jpg"></Item>
+		<Item Name="糟鸡" Text="zq0100.txt" Pic="糟鸡.jpg"></Item>
+		<Item Name="南荡鸡头" Text="mw0200.txt" Pic="南荡鸡头.jpg"></Item>
+		<Item Name="虎皮鸽蛋" Text="hc0500.txt" Pic="虎皮鸽蛋.jpg"></Item>
+	</Category>
+        <Category Name="现代菜系">
+		<Item Name="糖醋鱼" Text="cx0200.txt" Pic="糖醋鱼.jpg"></Item>
+		<Item Name="全家福" Text="cx0100.txt" Pic="全家福.jpg"></Item>
+		<Item Name="珍珠圆子" Text="dx0700.txt" Pic="珍珠圆子.jpg"></Item>
+		<Item Name="豆沙凉糍粑" Text="dx0900.txt" Pic="豆沙凉糍粑.jpg"></Item>
+		<Item Name="漂亮宝贝" Text="gz0600.txt" Pic="漂亮宝贝.jpg"></Item>
+		<Item Name="落日" Text="gz0200.txt" Pic="落日.jpg"></Item>
+		<Item Name="青春校园" Text="gz0400.txt" Pic="青春校园.jpg"></Item>
+		<Item Name="银色之恋" Text="gz0300.txt" Pic="银色之恋.jpg"></Item>
+		<Item Name="金枝玉叶果汁" Text="gz0100.txt" Pic="金枝玉叶果汁.jpg"></Item>
+		<Item Name="红衣女郎" Text="gz0500.txt" Pic="红衣女郎.jpg"></Item>
+		<Item Name="鲜贝芝耳面" Text="dx0800.txt" Pic="鲜贝芝耳面.jpg"></Item>
+		<Item Name="凤梨果冻" Text="jf0100.txt" Pic="凤梨果冻.jpg"></Item>
+		<Item Name="果汁庞柱" Text="gz0900.txt" Pic="果汁庞柱.jpg"></Item>
+		<Item Name="夏日之恋" Text="gz0800.txt" Pic="夏日之恋.jpg"></Item>
+		<Item Name="苹果之吻" Text="gz1000.txt" Pic="苹果之吻.jpg"></Item>
+		<Item Name="柠檬炒面" Text="jf0300.txt" Pic="柠檬炒面.jpg"></Item>
+		<Item Name="凤梨炒饭" Text="jf0200.txt" Pic="凤梨炒饭.jpg"></Item>
+		<Item Name="香橙烤肉串" Text="jf0800.txt" Pic="香橙烤肉串.jpg"></Item>
+		<Item Name="樱桃滑梨" Text="jf0500.txt" Pic="樱桃滑梨.jpg"></Item>
+		<Item Name="柠汁烩时蔬" Text="jf0700.txt" Pic="柠汁烩时蔬.jpg"></Item>
+		<Item Name="椰汁芒果糯米饭" Text="jf0900.txt" Pic="椰汁芒果糯米饭.jpg"></Item>
+		<Item Name="梦幻晴空" Text="gz0700.txt" Pic="梦幻晴空.jpg"></Item>
+		<Item Name="百合甜汤" Text="ks0300.txt" Pic="百合甜汤.jpg"></Item>
+		<Item Name="杞菊蒸鱼" Text="ks0700.txt" Pic="杞菊蒸鱼.jpg"></Item>
+		<Item Name="凤梨蒸鱼" Text="kz0500.txt" Pic="凤梨蒸鱼.jpg"></Item>
+		<Item Name="红烧芎芷凤翅" Text="ks0600.txt" Pic="红烧芎芷凤翅.jpg"></Item>
+		<Item Name="玫瑰醉鸡" Text="ks0400.txt" Pic="玫瑰醉鸡.jpg"></Item>
+		<Item Name="蒲志烩豆腐" Text="ks0900.txt" Pic="蒲志烩豆腐.jpg"></Item>
+		<Item Name="银菊汤丸" Text="kk0300.txt" Pic="银菊汤丸.jpg"></Item>
+		<Item Name="蟹柳汤面" Text="kk0200.txt" Pic="蟹柳汤面.jpg"></Item>
+		<Item Name="莲藕排骨补脑汤" Text="ks1000.txt" Pic="莲藕排骨补脑汤.jpg"></Item>
+		<Item Name="上汤粒粒饭" Text="kk0600.txt" Pic="上汤粒粒饭.jpg"></Item>
+		<Item Name="杏汁冬蓉露" Text="kk0700.txt" Pic="杏汁冬蓉露.jpg"></Item>
+		<Item Name="鱿鱼羹" Text="mw0100.txt" Pic="鱿鱼羹.jpg"></Item>
+		<Item Name="莲子银耳羹" Text="mw0500.txt" Pic="莲子银耳羹.jpg"></Item>
+		<Item Name="鲜肉汤圆" Text="mw0300.txt" Pic="鲜肉汤圆.jpg"></Item>
+		<Item Name="百合绿豆汤" Text="mw0400.txt" Pic="百合绿豆汤.jpg"></Item>
+		<Item Name="银鱼苋菜羹" Text="mw0800.txt" Pic="银鱼苋菜羹.jpg"></Item>
+		<Item Name="枸杞参鸡汤" Text="mw0900.txt" Pic="枸杞参鸡汤.jpg"></Item>
+		<Item Name="五香茶叶蛋" Text="qm0500.txt" Pic="五香茶叶蛋.jpg"></Item>
+		<Item Name="五福临门" Text="kz0300.txt" Pic="五福临门.jpg"></Item>
+		<Item Name="香菇鹅掌" Text="yx0500.txt" Pic="香菇鹅掌.jpg"></Item>
+		<Item Name="麻根黄耆卤味" Text="ks0500.txt" Pic="麻根黄耆卤味.jpg"></Item>
+	</Category>
+	<Category Name="饮食风俗">
+		<Item Name="吃元宵" Text="cyx.txt" Pic="吃元宵.jpg"></Item>
+		<Item Name="吃粽子" Text="czz.txt" Pic="吃粽子.jpg"></Item>
+		<Item Name="祭灶" Text="jz.txt" Pic="祭灶.jpg"></Item>
+		<Item Name="开斋节" Text="kzj.txt" Pic="开斋节.jpg"></Item>
+		<Item Name="腊八粥" Text="lbz.txt" Pic="腊八粥.jpg"></Item>
+		<Item Name="破五" Text="pw.txt" Pic="破五.jpg"></Item>
+		<Item Name="七夕节" Text="qxj.txt" Pic="七夕节.jpg"></Item>
+		<Item Name="食月饼" Text="syb.txt" Pic="食月饼.jpg"></Item>
+		<Item Name="咬春" Text="yc.txt" Pic="咬春.jpg"></Item>
+	</Category>
+	<Category Name="饮食故事">
+		<Item Name="北京烤鸭" Text="bjky.txt" Pic="北京烤鸭.jpg"></Item>
+		<Item Name="百鸟朝凤" Text="bncf.txt" Pic="百鸟朝凤.jpg"></Item>
+		<Item Name="道口烧鸡" Text="dksj.txt" Pic="道口烧鸡.jpg"></Item>
+		<Item Name="佛跳墙" Text="ftq.txt" Pic="佛跳墙.jpg"></Item>
+		<Item Name="过桥米线" Text="gpmx.txt" Pic="过桥米线.jpg"></Item>
+		<Item Name="流浪鸡" Text="llj.txt" Pic="流浪鸡.jpg"></Item>
+		<Item Name="麻婆豆腐" Text="mpdf.txt" Pic="麻婆豆腐01.jpg"></Item>
+		<Item Name="东坡肘子" Text="sdzz.txt" Pic="东坡肘子.jpg"></Item>
+		<Item Name="三黄油鸡" Text="shyj.txt" Pic="三黄油鸡.jpg"></Item>
+		<Item Name="涮羊肉" Text="syr.txt" Pic="涮羊肉.jpg"></Item>
+		<Item Name="天津狗不理包子" Text="tjgbl.txt" Pic="天津狗不理包子.jpg"></Item>
+	</Category>
+	<Category Name="饮食禁忌">
+		<Item Name="饮食禁忌" Text="ysjj.txt" Pic="饮食禁忌.jpg"></Item>
+	</Category>
+	<Category Name="炒菜窍门">
+		<Item Name="炒肉粘锅怎么办" Text="ccqm01.txt" Pic="炒肉粘锅怎么办.jpg"></Item>
+		<Item Name="由冰箱取出的蛋会煮破会怎么办" Text="ccqm02.txt" Pic="蛋煮破怎么办.jpg"></Item>
+		<Item Name="如何用微波炉做荷包蛋" Text="ccqm03.txt" Pic="微波炉做鸡蛋.jpg"></Item>
+		<Item Name="马铃薯炖肉时如何使肉汁入味" Text="ccqm04.txt" Pic="马铃薯炖肉.jpg"></Item>
+		<Item Name="如何加调味料才能煮出可口的食物" Text="ccqm05.txt" Pic="如何加调味料.jpg"></Item>
+		<Item Name="如何轻松地将蛋皮翻边" Text="ccqm06.txt" Pic="如何将蛋皮翻边.jpg"></Item>
+		<Item Name="怎样做出细腻柔滑的煎蛋" Text="ccqm07.txt" Pic="煎蛋如何细腻.jpg"></Item>
+		<Item Name="烤鱼时如何防止鱼皮粘在网架上" Text="ccqm08.txt" Pic="防止鱼皮粘网.jpg"></Item>
+		<Item Name="煎鱼时如何去腥" Text="ccqm09.txt" Pic="煎鱼如何去腥.jpg"></Item>
+		<Item Name="小青椒爆锅怎么办" Text="ccqm10.txt" Pic="小青椒爆锅怎么办.jpg"></Item>
+		<Item Name="将食物炸得酥脆的好办法" Text="ccqm11.txt" Pic="食物炸得酥脆.jpg"></Item>
+		<Item Name="怎样炒青菜" Text="ccqm12.txt" Pic="怎样炒青菜.jpg"></Item>
+	</Category>
+	<Category Name="海鲜选择">
+		<Item Name="鲍鱼" Text="by.txt" Pic="鲍鱼.jpg"></Item>
+		<Item Name="鲳鱼" Text="cy.txt" Pic="鲳鱼.jpg"></Item>
+		<Item Name="蛤蜊" Text="gl.txt" Pic="蛤蜊.jpg"></Item>
+		<Item Name="鲑鱼" Text="gy.txt" Pic="鲑鱼.jpg"></Item>
+		<Item Name="牡蛎" Text="ml.txt" Pic="牡蛎.jpg"></Item>
+		<Item Name="秋刀鱼" Text="qdy.txt" Pic="秋刀鱼.jpg"></Item>
+		<Item Name="虾" Text="x.txt" Pic="虾.jpg"></Item>
+		<Item Name="蚬" Text="xian.txt" Pic="蚬.jpg"></Item>
+		<Item Name="章鱼" Text="zy.txt" Pic="章鱼.jpg"></Item>
+	</Category>
+	<Category Name="饮食观念">
+		<Item Name="饮食观念" Text="ysgn.txt" Pic="饮食观念.jpg"></Item>
+	</Category>
+	<Category Name="老字号">
+		<Item Name="东来顺" Text="dls.txt" Pic="东来顺.jpg"></Item>
+		<Item Name="仿膳山庄" Text="fsfz.txt" Pic="仿膳山庄.jpg"></Item>
+		<Item Name="丰泽园饭庄" Text="fzfyz.txt" Pic="丰泽园饭庄.jpg"></Item>
+		<Item Name="烤肉季" Text="krj.txt" Pic="烤肉季.jpg"></Item>
+		<Item Name="六必居" Text="lbj.txt" Pic="六必居.jpg"></Item>
+		<Item Name="全聚德烤鸭店" Text="qjdkyd.txt" Pic="全聚德烤鸭店.jpg"></Item>
+		<Item Name="全素斋" Text="qsz.txt" Pic="全素斋.jpg"></Item>
+		<Item Name="天福号" Text="tfh.txt" Pic="天福号.jpg"></Item>
+		<Item Name="月盛斋" Text="ysz.txt" Pic="月盛斋.jpg"></Item>
+	</Category>
+</Items>

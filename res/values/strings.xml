@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">吃吃看HD</string>
+    <string name="about">版本信息</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_text">TextActivity</string>
+    <string name="menu_search">搜索</string>
+    <string name="title_activity_culture">饮食文化</string>
+    <string name="title_activity_cx">缤纷美食</string>
+    <string name="title_activity_learning">饮食课堂</string>
+
+</resources>
